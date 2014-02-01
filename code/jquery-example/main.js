@@ -1,5 +1,10 @@
 //jquery example
 console.log("my console");
+var myO = {
+	"one": 1,
+	"two": 2
+};
+console.log(myO,"<<< that is myO");
 
 //cache our book lists dom elements
 var availableBooks = $('#available-books');
