@@ -2,7 +2,11 @@
 console.log("my console");
 var myO = {
 	"one": 1,
-	"two": 2
+	"two": 2,
+	myA: [
+		"cat",
+		"dog"
+	]
 };
 console.log(myO,"<<< that is myO");
 

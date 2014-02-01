@@ -1,4 +1,5 @@
 //backbone example
+// Look at the site for annotations, uses document cloud to pull comments and align with code
 
 // Create a model for the books
 var Book = Backbone.Model.extend({
