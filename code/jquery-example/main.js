@@ -1,4 +1,5 @@
 //jquery example
+console.log("my console");
 
 //cache our book lists dom elements
 var availableBooks = $('#available-books');
